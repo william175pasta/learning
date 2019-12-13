@@ -1,0 +1,11 @@
+footer{
+    width:100%;
+    height: 80px;
+    background-color: #ccc;
+    color:#aaf;
+    text-align: center;
+    position: relative;
+}
+#divIdtestA{
+    color:rgb(19, 150, 19)
+}
